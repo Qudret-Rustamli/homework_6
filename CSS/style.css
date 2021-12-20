@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(31, 5, 13, 0.466);
+}
+
+
+.logo{
+    width: 100%;
+   
+    margin: 0.5em auto;
+    padding: 50px;
+    font-size: 3em;
+    font-weight: bold;
+    background-color: rgb(78, 163, 154);
+    color: #fff;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+    padding: 5px;
+    color: brown;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+
+
+
